@@ -1,22 +1,21 @@
-# Snippets
+# snippets
 
-A collection of reusable code snippets, configs, and notes for frontend work.
+A collection of small, useful code snippets for everyday frontend work.
 
 ## Contents
 
-- JavaScript utilities
-- CSS/SCSS patterns
-- Accessibility (a11y) patterns
-- Config files (ESLint, Prettier, etc.)
+- `css/` – accessibility-friendly styling patterns
+- `js/` – vanilla JS helpers and utilities
+- `html/` – semantic markup examples
 
 ## Usage
 
-Browse and copy what you need. Each snippet is self-contained and commented.
+Each file is self-contained. Copy what you need, adapt, and ship.
 
 ## Contributing
 
-If you have a snippet you'd like to add, create a pull request or open an issue.
+Open to ideas — feel free to file an issue or a PR.
 
-## License
+---
 
-MIT
+Last updated: 2026-08-11
